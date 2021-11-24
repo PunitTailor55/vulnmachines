@@ -2,7 +2,7 @@
 
 #### Vulnmachines.com is online cybersecurity learning platform with realtime vulnerabilities. 
 
-#### Our YouTube channel [Rapidsafeguard](https://wwww.youtube.com/c/rapidsafeguard)
+#### Our YouTube channel [Rapidsafeguard](https://www.youtube.com/c/rapidsafeguard)
 
 <!--
 **Vulnmachines/vulnmachines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
